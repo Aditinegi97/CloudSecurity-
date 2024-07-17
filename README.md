@@ -8,3 +8,6 @@ out each of the services, resulting in a fully-functional math web application. 
 math Web application, We have further use Different security services integrated with our App 
 building services. Here is the overview of the services that i used to ensure the Confidentiality 
 , Integrity and Accessibility (COI traids)
+
+
+*This is just a document as it gives you a insight about Security services in aws*
